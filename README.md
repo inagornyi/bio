@@ -1,3 +1,3 @@
-👋 Hi! I’m Ivan, Fullstack developer from 🇺🇦 Ukraine
-</br>
-🌱 I’m currently learning Rust and Solidity
+- 👋 Hi, I’m Ivan
+- 👀 I’m interested in blockchain, cryptocurrency, dao, web3
+- 🌱 I’m currently learning English, Rust and Solidity
