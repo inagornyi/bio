@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ivan
+- 👋 Hi, I'm Ivan
 - 🇺🇦 I'm from Ukraine
-- 👀 I’m interested in blockchain, cryptocurrency, smart contracts, web3
-- 🧠 I’m currently learning TypeScript, Rust and Solidity
+🧠 Go Developer specializing in blockchain
+🛠️ Working with Go, Rust, and blockchain technologies
 - 📫 How to reach me: [@inagornyi](https://twitter.com/inagornyi)
