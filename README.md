@@ -1,5 +1,1 @@
 - 👋 Hi, I'm Ivan
-- 🇺🇦 I'm from Ukraine
-- 🧠 Developer
-- 🛠️ Working with Go, Rust, and blockchain technologies
-- 📫 How to reach me: [@inagornyi](https://twitter.com/inagornyi)
